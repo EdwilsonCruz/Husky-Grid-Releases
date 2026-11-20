@@ -37,7 +37,7 @@ Este repositório é dedicado exclusivamente à **distribuição de instaladores
 - **Grade flexível:** divida a tela horizontal e verticalmente, crie abas e reorganize tudo livremente via arrastar e soltar (dockview). O layout é salvo automaticamente.
 - **Eco Mode:** reduz o consumo de CPU e estabiliza a taxa de quadros (FPS) nas sessões que não estão em foco, garantindo economia sem desconectar os jogos.
 - **Catálogo de receitas:** perfis pré-configurados para jogos conhecidos e suporte a receitas genéricas para qualquer URL.
-- **Privacidade e segurança por design:** sem telemetria oculta, sem captura de senhas de jogos e com permissões nativas estritamente bloqueadas. Leia mais em [Segurança](SECURITY.md) e [Privacidade](PRIVACY.md).
+- **Privacidade e segurança por design (LGPD):** em conformidade com a LGPD (Lei nº 13.709/2018), seu e-mail e dados cadastrais são usados exclusivamente para a licença e **nunca serão comercializados, reutilizados ou compartilhados para fins de marketing**. O app opera com zero telemetria invasiva, sem captura de senhas e com permissões nativas bloqueadas. Leia mais em [Segurança](SECURITY.md) e [Privacidade](PRIVACY.md).
 - **Planos Gratuito e Pro:** use gratuitamente com até **4 sessões simultâneas** ou assine planos pagos para suporte a mais telas e múltiplos dispositivos.
 
 ---

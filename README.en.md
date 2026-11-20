@@ -37,7 +37,7 @@ This repository is dedicated exclusively to **official installer releases and ch
 - **Flexible Grid Layout:** Split screens horizontally and vertically, tab sessions together, and drag-and-drop freely via dockview. Layout states are automatically preserved across restarts.
 - **Eco Mode:** Dynamically throttles CPU consumption and limits frame rates (FPS) on background or unfocused sessions to save system resources while maintaining active game connections.
 - **Recipe Ecosystem:** Pre-configured profiles for supported idle web games alongside generic recipes that let you dock any custom web application URL.
-- **Security & Privacy by Design:** Zero invasive telemetry, zero keystroke logging, no game password harvesting, and strictly blocked native OS permissions. Read more in our [Security](SECURITY.en.md) and [Privacy](PRIVACY.en.md) documents.
+- **Security & Privacy by Design (LGPD Compliant):** Operating in full alignment with data protection regulations (including Brazil's LGPD, Law No. 13,709/2018), your registered email is used strictly for licensing and will **never be reused, sold, or shared for marketing purposes**. The application enforces zero invasive telemetry, zero keystroke logging, and permanently blocks native OS permissions. Read more in our [Security](SECURITY.en.md) and [Privacy](PRIVACY.en.md) documents.
 - **Free and Pro Tiers:** Get started for free with up to **4 concurrent sessions**, or subscribe to unlock expanded session limits and multi-device capabilities.
 
 ---
