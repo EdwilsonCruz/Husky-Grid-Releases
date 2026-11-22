@@ -101,11 +101,13 @@ Sua segurança e a integridade das suas contas são prioridades fundamentais:
 
 ## Suporte e reporte de problemas
 
-Caso encontre falhas ou comportamentos anômalos, abra uma [**Issue**](https://github.com/EdwilsonCruz/Husky-Grid-Releases/issues) informando:
-1. **Versão instalada** (ex.: `v0.1.0`).
-2. **Sistema operacional e versão** (ex.: Windows 11 x64, Ubuntu 24.04 x64).
-3. **Passos detalhados** para reproduzir a ocorrência.
-4. **Logs ou capturas de tela** (se aplicável).
+Para dúvidas, assistência com sua conta ou relatos de problemas:
+- **E-mail de suporte:** `support@huskygrid.com.br`
+- **Reporte de bugs e melhorias:** abra uma [**Issue**](https://github.com/EdwilsonCruz/Husky-Grid-Releases/issues) informando:
+  1. **Versão instalada** (ex.: `v0.1.0`).
+  2. **Sistema operacional e versão** (ex.: Windows 11 x64, Ubuntu 24.04 x64).
+  3. **Passos detalhados** para reproduzir a ocorrência.
+  4. **Logs ou capturas de tela** (se aplicável).
 
 > [!CAUTION]
 > **Proteja seus dados:** nunca inclua senhas de contas, cookies, chaves de autenticação ou informações financeiras em issues públicas.

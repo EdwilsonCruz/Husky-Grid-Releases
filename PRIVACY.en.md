@@ -43,7 +43,7 @@ In full alignment with the **Brazilian General Data Protection Law (LGPD - Law N
   2. Request access to or correction of your registered information.
   3. Revoke consent and request the **permanent deletion** of your account and personal data from our licensing servers.
 
-To exercise any of these rights, simply email us at `privacy@huskygrid.com`.
+To exercise any of these rights, simply email us at `privacy@huskygrid.com.br`.
 
 ---
 
@@ -58,7 +58,7 @@ To exercise any of these rights, simply email us at `privacy@huskygrid.com`.
 
 The Husky Grid desktop client communicates exclusively with:
 1. Third-party web destinations and games explicitly configured or navigated to by the user.
-2. The official licensing backend (`https://husky-grid-backend.fly.dev` or configured official domain).
+2. The official Husky Grid licensing backend.
 3. The official GitHub Releases endpoint for update metadata.
 
 ---
@@ -75,5 +75,6 @@ The Husky Grid desktop client communicates exclusively with:
 ## 7. Privacy Inquiries and Data Protection Officer (DPO)
 
 For any inquiries or requests regarding data privacy, LGPD compliance, or account deletion, reach out to:
-- **Privacy Email:** `privacy@huskygrid.com`
+- **Privacy Email (DPO / LGPD):** `privacy@huskygrid.com.br`
+- **General Support Email:** `support@huskygrid.com.br`
 - **Issue Tracker:** [EdwilsonCruz/Husky-Grid-Releases/issues](https://github.com/EdwilsonCruz/Husky-Grid-Releases/issues)

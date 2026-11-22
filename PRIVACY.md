@@ -43,7 +43,7 @@ Em estrito cumprimento à **Lei Geral de Proteção de Dados Pessoais (LGPD - Le
   2. Solicitar acesso, correção ou atualização do seu e-mail cadastrado.
   3. Solicitar a revogação de consentimento e a **eliminação definitiva** da sua conta e de todos os dados pessoais associados de nossos servidores de licença.
 
-Para exercer qualquer um desses direitos, basta enviar um e-mail para `privacy@huskygrid.com`.
+Para exercer qualquer um desses direitos, basta enviar um e-mail para `privacy@huskygrid.com.br`.
 
 ---
 
@@ -75,4 +75,6 @@ O aplicativo Husky Grid realiza conexões de rede exclusivamente para:
 ## 7. Contato e Encarregado de Dados (DPO)
 
 Dúvidas, solicitações ou requisições de titulares referentes à LGPD e proteção de dados podem ser encaminhadas diretamente para:
+- **E-mail de Privacidade (DPO / LGPD):** `privacy@huskygrid.com.br`
+- **E-mail de Suporte Geral:** `support@huskygrid.com.br`
 - **Repositório oficial:** [EdwilsonCruz/Husky-Grid-Releases/issues](https://github.com/EdwilsonCruz/Husky-Grid-Releases/issues)

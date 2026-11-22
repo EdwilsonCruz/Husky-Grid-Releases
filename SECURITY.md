@@ -56,7 +56,7 @@ O instalador para Windows é gerado via electron-builder (formato NSIS). Em soft
 
 Se você identificar qualquer falha de segurança, brecha de isolamento ou vulnerabilidade no Husky Grid, solicitamos que nos informe de maneira ética e confidencial antes de qualquer divulgação pública:
 
-1. **Canal de contato:** envie um e-mail com detalhes técnicos para `security@huskygrid.com` (ou abra um [Security Advisory privado no GitHub](https://github.com/EdwilsonCruz/Husky-Grid-Releases/security/advisories)).
+1. **Canal de contato:** envie um e-mail com detalhes técnicos para `security@huskygrid.com.br` (ou `support@huskygrid.com.br`, ou abra um [Security Advisory privado no GitHub](https://github.com/EdwilsonCruz/Husky-Grid-Releases/security/advisories)).
 2. **O que incluir no relatório:**
    - Descrição detalhada da vulnerabilidade.
    - Versão do Husky Grid testada e sistema operacional.

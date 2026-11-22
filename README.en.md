@@ -101,11 +101,13 @@ Your security and account safety are core priorities:
 
 ## Support & Issue Reporting
 
-If you encounter unexpected behavior or bugs, please submit an [**Issue**](https://github.com/EdwilsonCruz/Husky-Grid-Releases/issues) including:
-1. **Application Version** (e.g., `v0.1.0`).
-2. **Operating System and Version** (e.g., Windows 11 x64, Ubuntu 24.04 LTS).
-3. **Step-by-step instructions** to reproduce the issue.
-4. **Log output or screenshots** where relevant.
+For general questions, account inquiries, or bug reports:
+- **Support Email:** `support@huskygrid.com.br`
+- **Bug Reports & Feature Requests:** Open an [**Issue**](https://github.com/EdwilsonCruz/Husky-Grid-Releases/issues) including:
+  1. **Application Version** (e.g., `v0.1.0`).
+  2. **Operating System and Version** (e.g., Windows 11 x64, Ubuntu 24.04 LTS).
+  3. **Step-by-step instructions** to reproduce the issue.
+  4. **Log output or screenshots** where relevant.
 
 > [!CAUTION]
 > **Protect Sensitive Data:** Never post account passwords, cookies, authorization tokens, or payment details in public GitHub issues.

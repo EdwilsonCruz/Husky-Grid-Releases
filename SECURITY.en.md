@@ -56,7 +56,7 @@ Our Windows binaries are packaged via electron-builder (NSIS). On new, standalon
 
 If you discover a security flaw, permission leakage, or isolation bypass in Husky Grid, we ask that you disclose it responsibly and confidentially prior to any public disclosure:
 
-1. **Contact Channel:** Send a technical briefing to `security@huskygrid.com` (or submit a private [GitHub Security Advisory](https://github.com/EdwilsonCruz/Husky-Grid-Releases/security/advisories)).
+1. **Contact Channel:** Send a technical briefing to `security@huskygrid.com.br` (or `support@huskygrid.com.br`, or submit a private [GitHub Security Advisory](https://github.com/EdwilsonCruz/Husky-Grid-Releases/security/advisories)).
 2. **Report Contents:**
    - Detailed description of the issue.
    - Tested Husky Grid version and target operating system.
