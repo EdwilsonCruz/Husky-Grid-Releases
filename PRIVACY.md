@@ -58,7 +58,7 @@ Para exercer qualquer um desses direitos, basta enviar um e-mail para `privacy@h
 
 O aplicativo Husky Grid realiza conexões de rede exclusivamente para:
 1. Os domínios da internet que você escolher navegar ou jogar nas telas da grade.
-2. O backend oficial de licença do Husky Grid (`https://husky-grid-backend.fly.dev` ou domínio oficial configurado).
+2. O backend oficial de licença do Husky Grid.
 3. A API pública do GitHub para checagem de novas versões na aba de Releases.
 
 ---
@@ -75,5 +75,4 @@ O aplicativo Husky Grid realiza conexões de rede exclusivamente para:
 ## 7. Contato e Encarregado de Dados (DPO)
 
 Dúvidas, solicitações ou requisições de titulares referentes à LGPD e proteção de dados podem ser encaminhadas diretamente para:
-- **E-mail de Privacidade:** `privacy@huskygrid.com`
 - **Repositório oficial:** [EdwilsonCruz/Husky-Grid-Releases/issues](https://github.com/EdwilsonCruz/Husky-Grid-Releases/issues)
