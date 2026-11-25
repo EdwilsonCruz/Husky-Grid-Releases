@@ -51,6 +51,14 @@ Este repositório é dedicado exclusivamente à **distribuição de instaladores
 
 ## Demonstração visual
 
+### 🎬 Demonstração em Vídeo
+
+https://github.com/EdwilsonCruz/Husky-Grid-Releases/raw/main/docs/videos/demo.mp4
+
+> 💡 *Caso o player acima não carregue no seu navegador, você pode [assistir diretamente ao vídeo aqui](docs/videos/demo.mp4).*
+
+<br />
+
 | Grade Flexível em Painéis | Economia Inteligente de Memória (Hibernação) |
 | :---: | :---: |
 | <img src="docs/imagens/grid-layout.png" alt="Layout em Grade e Painéis" width="100%" /> | <img src="docs/imagens/memory-saver.png" alt="Sessão em descanso e economia de RAM" width="100%" /> |

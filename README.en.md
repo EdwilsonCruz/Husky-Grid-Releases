@@ -51,6 +51,14 @@ This repository is dedicated exclusively to **official installer releases and ch
 
 ## Visual Showcase
 
+### 🎬 Video Walkthrough
+
+https://github.com/EdwilsonCruz/Husky-Grid-Releases/raw/main/docs/videos/demo.mp4
+
+> 💡 *If the video player does not load automatically in your browser, you can [watch or download the video directly here](docs/videos/demo.mp4).*
+
+<br />
+
 | Multi-Session Grid Layout | Smart Memory Saver (Hibernation) |
 | :---: | :---: |
 | <img src="docs/imagens/grid-layout.png" alt="Multi-Session Grid Layout" width="100%" /> | <img src="docs/imagens/memory-saver.png" alt="Process Unloading and RAM Saver" width="100%" /> |
