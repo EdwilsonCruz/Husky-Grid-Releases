@@ -51,11 +51,13 @@ Este repositório é dedicado exclusivamente à **distribuição de instaladores
 
 ## Demonstração visual
 
-### 🎬 Demonstração em Vídeo
+### ⚙️ Tour pelas Configurações (Vídeo)
+
+Confira uma visão rápida das opções de configuração e preferências disponíveis no Husky Grid:
 
 https://github.com/EdwilsonCruz/Husky-Grid-Releases/raw/main/docs/videos/demo.mp4
 
-> 💡 *Caso o player acima não carregue no seu navegador, você pode [assistir diretamente ao vídeo aqui](docs/videos/demo.mp4).*
+> 💡 *Caso o player acima não carregue no seu navegador, você pode [assistir diretamente ao vídeo de configurações aqui](docs/videos/demo.mp4).*
 
 <br />
 
