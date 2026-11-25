@@ -13,11 +13,18 @@
 [![Licença](https://img.shields.io/badge/Licen%C3%A7a-Propriet%C3%A1ria-475569?style=for-the-badge)](#-licen%C3%A7a-e-c%C3%B3digo-fonte)
 
 [Baixar Releases](https://github.com/EdwilsonCruz/Husky-Grid-Releases/releases/latest) •
+[Demonstração](#-demonstra%C3%A7%C3%A3o-visual) •
 [Recursos](#-principais-recursos) •
 [Instalação](#-instala%C3%A7%C3%A3o) •
 [Segurança](SECURITY.md) •
 [Privacidade](PRIVACY.md) •
 [Reportar Problema](https://github.com/EdwilsonCruz/Husky-Grid-Releases/issues)
+
+<br /><br />
+
+<img src="docs/imagens/hero-preview.png" alt="Husky Grid - Interface Principal com Huntera" width="100%" />
+
+<sub>Visão geral do Husky Grid gerenciando múltiplas sessões simultâneas com isolamento Chromium e jogo ativo.</sub>
 
 </div>
 
@@ -39,6 +46,15 @@ Este repositório é dedicado exclusivamente à **distribuição de instaladores
 - **Catálogo de receitas:** perfis pré-configurados para jogos conhecidos e suporte a receitas genéricas para qualquer URL.
 - **Privacidade e segurança por design (LGPD):** em conformidade com a LGPD (Lei nº 13.709/2018), seu e-mail e dados cadastrais são usados exclusivamente para a licença e **nunca serão comercializados, reutilizados ou compartilhados para fins de marketing**. O app opera com zero telemetria invasiva, sem captura de senhas e com permissões nativas bloqueadas. Leia mais em [Segurança](SECURITY.md) e [Privacidade](PRIVACY.md).
 - **Planos Gratuito e Pro:** use gratuitamente com até **4 sessões simultâneas** ou assine planos pagos para suporte a mais telas e múltiplos dispositivos.
+
+---
+
+## Demonstração visual
+
+| Grade Flexível em Painéis | Economia Inteligente de Memória (Hibernação) |
+| :---: | :---: |
+| <img src="docs/imagens/grid-layout.png" alt="Layout em Grade e Painéis" width="100%" /> | <img src="docs/imagens/memory-saver.png" alt="Sessão em descanso e economia de RAM" width="100%" /> |
+| *Divisão em colunas e abas flexíveis (dockview)* | *Descarregamento automático de processos para economizar RAM* |
 
 ---
 

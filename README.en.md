@@ -13,11 +13,18 @@
 [![License](https://img.shields.io/badge/License-Proprietary-475569?style=for-the-badge)](#-license-and-source-code)
 
 [Download Releases](https://github.com/EdwilsonCruz/Husky-Grid-Releases/releases/latest) •
+[Showcase](#-visual-showcase) •
 [Features](#-key-features) •
 [Installation](#-installation) •
 [Security](SECURITY.en.md) •
 [Privacy](PRIVACY.en.md) •
 [Report an Issue](https://github.com/EdwilsonCruz/Husky-Grid-Releases/issues)
+
+<br /><br />
+
+<img src="docs/imagens/hero-preview.png" alt="Husky Grid - Main Interface with Huntera" width="100%" />
+
+<sub>Overview of Husky Grid managing multiple concurrent isolated sessions with an active web game.</sub>
 
 </div>
 
@@ -39,6 +46,15 @@ This repository is dedicated exclusively to **official installer releases and ch
 - **Recipe Ecosystem:** Pre-configured profiles for supported idle web games alongside generic recipes that let you dock any custom web application URL.
 - **Security & Privacy by Design (LGPD Compliant):** Operating in full alignment with data protection regulations (including Brazil's LGPD, Law No. 13,709/2018), your registered email is used strictly for licensing and will **never be reused, sold, or shared for marketing purposes**. The application enforces zero invasive telemetry, zero keystroke logging, and permanently blocks native OS permissions. Read more in our [Security](SECURITY.en.md) and [Privacy](PRIVACY.en.md) documents.
 - **Free and Pro Tiers:** Get started for free with up to **4 concurrent sessions**, or subscribe to unlock expanded session limits and multi-device capabilities.
+
+---
+
+## Visual Showcase
+
+| Multi-Session Grid Layout | Smart Memory Saver (Hibernation) |
+| :---: | :---: |
+| <img src="docs/imagens/grid-layout.png" alt="Multi-Session Grid Layout" width="100%" /> | <img src="docs/imagens/memory-saver.png" alt="Process Unloading and RAM Saver" width="100%" /> |
+| *Flexible column and tab management (dockview)* | *Automatic process unloading to conserve system RAM* |
 
 ---
 
