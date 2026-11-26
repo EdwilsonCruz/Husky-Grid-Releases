@@ -51,6 +51,14 @@ Este repositório é dedicado exclusivamente à **distribuição de instaladores
 
 ## Demonstração visual
 
+### 🎬 Uso na Prática: Sessões de Navegador e Jogos (Vídeo)
+
+Veja o Husky Grid em funcionamento gerenciando sessões simultâneas de navegador e jogos:
+
+https://github.com/EdwilsonCruz/Husky-Grid-Releases/raw/main/docs/videos/usage-demo.mp4
+
+> 💡 *Caso o player acima não carregue no seu navegador, você pode [assistir diretamente ao vídeo de uso aqui](docs/videos/usage-demo.mp4).*
+
 ### ⚙️ Tour pelas Configurações (Vídeo)
 
 Confira uma visão rápida das opções de configuração e preferências disponíveis no Husky Grid:

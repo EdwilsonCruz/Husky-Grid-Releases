@@ -51,6 +51,14 @@ This repository is dedicated exclusively to **official installer releases and ch
 
 ## Visual Showcase
 
+### 🎬 In Action: Browser & Game Sessions (Video)
+
+Watch Husky Grid in action managing concurrent browser and game sessions:
+
+https://github.com/EdwilsonCruz/Husky-Grid-Releases/raw/main/docs/videos/usage-demo.mp4
+
+> 💡 *If the video player does not load automatically in your browser, you can [watch or download the usage demo here](docs/videos/usage-demo.mp4).*
+
 ### ⚙️ Settings & Configuration Tour (Video)
 
 Take a quick look at the available settings and system preferences inside Husky Grid:
