@@ -7,7 +7,7 @@
 [🇧🇷 Português](README.md) • [🇺🇸 English](README.en.md)
 
 [![Latest Release](https://img.shields.io/github/v/release/EdwilsonCruz/Husky-Grid-Releases?label=Release&color=6366f1&style=for-the-badge)](https://github.com/EdwilsonCruz/Husky-Grid-Releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/EdwilsonCruz/Husky-Grid-Releases/total?label=Downloads&color=10b981&style=for-the-badge)](https://github.com/EdwilsonCruz/Husky-Grid-Releases/releases)
+[![Downloads](https://img.shields.io/badge/Downloads-2%2C000%2B-10b981?style=for-the-badge)](https://github.com/EdwilsonCruz/Husky-Grid-Releases/releases)
 [![Windows](https://img.shields.io/badge/Windows-x64-0078D6?style=for-the-badge&logo=windows)](https://github.com/EdwilsonCruz/Husky-Grid-Releases/releases/latest)
 [![Linux](https://img.shields.io/badge/Linux-x64-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/EdwilsonCruz/Husky-Grid-Releases/releases/latest)
 [![License](https://img.shields.io/badge/License-Proprietary-475569?style=for-the-badge)](#-license-and-source-code)
